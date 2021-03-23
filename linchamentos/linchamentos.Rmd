@@ -184,11 +184,11 @@ class: center, middle, inverse
 
 # Experimento de conjoint
 
-* Mostramos aos participantes uma série de cinco pares de perfis com
-  informações sobre vítimas de linchamentos
+* Mostramos aos participantes cinco pares de perfis com informações sobre
+  casos de linchamentos
 
-* Cada indivíduo deveria escolher a vítima na qual achasse que o linchamento
-  era mais justificado
+* Cada indivíduo deveria escolher o caso em que achasse que o linchamento mais
+  justificado
 
 * Nosso objetivo era estimar quais traços aumentam ou reduzem a chance de uma
   pessoa apoiar o linchamento
