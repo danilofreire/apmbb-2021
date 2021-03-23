@@ -278,7 +278,7 @@ class: center, middle, inverse
 * Problemas: 
   - Podemos controlar pelas variáveis que conhecemos, não pelas que _não sabemos ou não medimos_ (variáveis omitidas)
   - Nem sempre é claro para os pesquisadores quais variáveis devem ser incluídas
-  - A inclusão de variáveis desnecessárias pioram os modelos
+  - A inclusão de variáveis desnecessárias piora os modelos
 
 ---
 
