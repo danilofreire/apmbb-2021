@@ -202,8 +202,8 @@ class: center, middle, inverse
 
 # Experimento de conjoint
 
-| **Característica**      | **Níveis**                                                        |
-| :---------------    | :-------                                                     |
+| **Característica**  | **Níveis**                                                    |
+| :---------------    | :-------                                                      |
 | Gênero do criminoso | Feminino, masculino                                           |
 | Idade do criminoso  | Adolescente, adulto, idoso                                    |
 | Raça do criminoso   | Asiático, branco, indígena, negro                             |
@@ -293,7 +293,7 @@ class: center, middle, inverse
   agrediram o suspeito porque "a justiça é muito lenta e os criminosos ficam
   soltos até o julgamento"**.
 
-* **Tratamento 03 -- Demanda por penas mais duras**: Um homem foi linchado na
+* **Tratamento 03 - Demanda por penas mais duras**: Um homem foi linchado na
   última sexta-feira em Jundiaí, São Paulo. De acordo com vizinhos, ele
   tentou invadir uma residência mas foi imobilizado e agredido por membros da
   comunidade. **Um dos moradores envolvidos no linchamento disse que eles
