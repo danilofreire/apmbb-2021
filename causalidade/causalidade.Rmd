@@ -2,7 +2,7 @@
 title: "Inferência Causal e Políticas Públicas Baseadas em Evidências: Uma Breve Introdução<br><br><br>"
 subtitle: ""
 author: "Danilo Freire<br><br>"
-date: '<font size="5">1<sup>o</sup> de Abril de 2021</font><br><br><br> `r icon::fa("link")` <a href="http://danilofreire.github.io" target="_blank"><font size="4" color="white">danilofreire.github.io</font></a><br> `r icon::fa("envelope")` <a href="mailto:danilofreire@gmail.com" target="_blank"><font size="4" color="white">danilofreire\@gmail.com</font></a></br> `r icon::fa("github")` <a href="http://github.com/danilofreire/apmbb-2021" target="_blank"><font size="4" color="white">github.com/danilofreire/apmbb-2021</font></a>'
+date: '<font size="5">12 de Abril de 2021</font><br><br><br> `r icon::fa("link")` <a href="http://danilofreire.github.io" target="_blank"><font size="4" color="white">danilofreire.github.io</font></a><br> `r icon::fa("envelope")` <a href="mailto:danilofreire@gmail.com" target="_blank"><font size="4" color="white">danilofreire\@gmail.com</font></a></br> `r icon::fa("github")` <a href="http://github.com/danilofreire/apmbb-2021" target="_blank"><font size="4" color="white">github.com/danilofreire/apmbb-2021</font></a>'
 output:
   xaringan::moon_reader:
     css: xaringan-themer.css
