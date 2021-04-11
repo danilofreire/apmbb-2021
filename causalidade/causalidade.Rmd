@@ -271,9 +271,9 @@ class: center, middle, inverse
 
 * Pesquisadores incluem _variáveis de controle_ para eliminar a influência de certos fatores
 
-* Ao adicionar uma variável, o modelo compara casos _com o valor médio de cada fator_ $X$
+* Ao adicionar uma variável, o modelo compara casos _com o valor médio de cada fator_ $Z$
 
-* $Y = \alpha + \beta T + \gamma X + \epsilon$
+* $Y = \alpha + \beta X + \gamma Z + \epsilon$
 
 * Problemas: 
   - Podemos controlar pelas variáveis que conhecemos, não pelas que _não sabemos ou não medimos_ (variáveis omitidas)
